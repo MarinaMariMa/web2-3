@@ -1,4 +1,9 @@
 @charest "UTF-8";
+<head>
+ <style>
+ @inport url("css/default.css">;
+ </style>
+</head>
 body{
  background-color: #555555; /*背景色を変える*/
 }
