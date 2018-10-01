@@ -1,6 +1,6 @@
 @charest "UTF-8";
 body{
- background-color: #fbf9cc; /*背景色を変える*/
+ background-color: #555555; /*背景色を変える*/
 }
 h1 span{
  fount-size: 1.75em;
@@ -16,7 +16,7 @@ h2{
   padding: 5px 20px
 }
 #lead{
- border-top: #6fbb9a 1px dotted;
+ border-top: #111111 1px dotted;
  
  text-align: center;
 }
