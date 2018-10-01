@@ -4,9 +4,11 @@
  @inport url("css/default.css">;
  </style>
 </head>
+@charest "UTF-8";
 body{
  background-color: #555555; /*背景色を変える*/
 }
+@charest "UTF-8";
 h1 span{
  fount-size: 1.75em;
   color: #3399cc;
